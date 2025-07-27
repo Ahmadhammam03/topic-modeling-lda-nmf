@@ -4,7 +4,6 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange.svg)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Latest-green.svg)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/Ahmadhammam03/topic-modeling-lda-nmf?style=social)](https://github.com/Ahmadhammam03/topic-modeling-lda-nmf/stargazers)
 
 A comprehensive topic modeling project that implements and compares **Latent Dirichlet Allocation (LDA)** and **Non-Negative Matrix Factorization (NMF)** algorithms to discover hidden topics in text documents.
 
