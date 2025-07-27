@@ -93,9 +93,9 @@ topic-modeling-lda-nmf/
 ├── 📄 requirements.txt                    # Project dependencies
 ├── 📄 test_project.py                     # Testing and validation script
 ├── 📄 create_visualizations.py            # Visualization generation script
-├── 📄 .gitignore                         # Git ignore file
-├── 📄 LICENSE                            # MIT License
-└── 📄 README.md                          # Project documentation (this file)
+├── 📄 .gitignore                          # Git ignore file
+├── 📄 LICENSE                             # MIT License
+└── 📄 README.md                           # Project documentation (this file)
 ```
 
 ## 🔬 Methodology & Technical Approach
@@ -405,7 +405,7 @@ If you found this project helpful, please consider giving it a star! ⭐
 
 **🚀 Ready to discover hidden topics in your text data? Let's get started! 🚀**
 
-[📖 Documentation](./notebooks/) • [🐛 Report Bug](https://github.com/Ahmadhammam03/topic-modeling-lda-nmf/issues) • [💡 Request Feature](https://github.com/Ahmadhammam03/topic-modeling-lda-nmf/issues) • [⭐ Star Repository](https://github.com/Ahmadhammam03/topic-modeling-lda-nmf)
+[📖 Documentation](./notebooks/) • [⭐ Star Repository](https://github.com/Ahmadhammam03/topic-modeling-lda-nmf)
 
 **Made with ❤️ by [Ahmad Hammam](https://github.com/Ahmadhammam03)**
 
