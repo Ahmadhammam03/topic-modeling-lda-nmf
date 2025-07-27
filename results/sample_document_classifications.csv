@@ -1,0 +1,11 @@
+Document,Topic_LDA,Topic_NMF,Confidence
+Document 1,0,0,0.85
+Document 2,1,1,0.92
+Document 3,2,2,0.78
+Document 4,0,0,0.89
+Document 5,2,2,0.83
+Document 6,1,1,0.91
+Document 7,1,1,0.87
+Document 8,2,2,0.79
+Document 9,2,2,0.88
+Document 10,1,1,0.94

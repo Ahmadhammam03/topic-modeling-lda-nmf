@@ -1,0 +1,16 @@
+Document_ID,Document_Preview,LDA_Topic,LDA_Topic_Name,NMF_Topic,NMF_Topic_Name
+1,The president announced new healthcare policies affecting mi...,3,New & Policy,1,Today & Policy
+2,Congressional leaders met to discuss the upcoming election a...,2,Strategy & Leader,3,Strategy & Leader
+3,Government officials debated new policies for economic recov...,3,New & Policy,1,Today & Policy
+4,Machine learning and artificial intelligence are transformin...,4,Technology,4,Technology
+5,New smartphone technology features advanced AI-powered camer...,4,Technology,0,Technology
+6,Software developers are using artificial intelligence to cre...,4,Technology,4,Technology
+7,Students across the country are returning to schools after s...,0,Technology,0,Technology
+8,Universities are expanding their online education programs d...,0,Technology,0,Technology
+9,Research scientists published new findings about climate cha...,2,Strategy & Leader,2,Technology
+10,The stock market showed significant gains following positive...,1,Today & Economic,1,Today & Policy
+11,Technology companies are investing heavily in renewable ener...,4,Technology,0,Technology
+12,Business leaders discussed strategies for post-pandemic econ...,2,Strategy & Leader,3,Strategy & Leader
+13,Scientists discovered a breakthrough treatment for cancer in...,2,Strategy & Leader,2,Technology
+14,Doctors recommend regular exercise and healthy diet for dise...,0,Technology,0,Technology
+15,Medical researchers are developing new vaccines using advanc...,4,Technology,0,Technology

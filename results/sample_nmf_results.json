@@ -1,0 +1,36 @@
+{
+  "algorithm": "nmf",
+  "n_topics": 3,
+  "topics": {
+    "0": {
+      "words": [
+        "new"
+      ],
+      "weights": [
+        0.16557138433707755
+      ],
+      "name": "New Topic"
+    },
+    "1": {
+      "words": [
+        "new"
+      ],
+      "weights": [
+        0.04608810039039451
+      ],
+      "name": "New Topic"
+    },
+    "2": {
+      "words": [
+        "new"
+      ],
+      "weights": [
+        0.2158961793668969
+      ],
+      "name": "New Topic"
+    }
+  },
+  "model_params": {
+    "random_state": 42
+  }
+}

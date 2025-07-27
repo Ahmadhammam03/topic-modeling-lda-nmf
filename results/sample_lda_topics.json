@@ -1,0 +1,42 @@
+{
+  "algorithm": "lda",
+  "n_topics": 3,
+  "topics": {
+    "0": {
+      "words": [
+        "technology",
+        "new"
+      ],
+      "weights": [
+        0.3715687104881517,
+        0.35764204577751296
+      ],
+      "name": "Technology"
+    },
+    "1": {
+      "words": [
+        "technology",
+        "new"
+      ],
+      "weights": [
+        3.261640122669157,
+        0.3535282576120133
+      ],
+      "name": "Technology"
+    },
+    "2": {
+      "words": [
+        "new",
+        "technology"
+      ],
+      "weights": [
+        2.2888296966104726,
+        0.36679116684268986
+      ],
+      "name": "Technology"
+    }
+  },
+  "model_params": {
+    "random_state": 42
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "algorithm": "nmf",
+  "n_topics": 5,
+  "topics": {
+    "0": {
+      "words": [
+        "advanced",
+        "technology",
+        "new",
+        "using",
+        "policy",
+        "today",
+        "strategy",
+        "scientist",
+        "recovery",
+        "leader",
+        "intelligence",
+        "economic",
+        "artificial"
+      ],
+      "weights": [
+        1.31690015513111,
+        1.3112084613195092,
+        1.0443284436571978,
+        0.49307715180058415,
+        0.00672261578338623,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "Technology"
+    },
+    "1": {
+      "words": [
+        "today",
+        "policy",
+        "economic",
+        "new",
+        "recovery",
+        "using",
+        "technology",
+        "strategy",
+        "scientist",
+        "leader",
+        "intelligence",
+        "artificial",
+        "advanced"
+      ],
+      "weights": [
+        0.8600006039712316,
+        0.7343022259237743,
+        0.7202951002394503,
+        0.5165200425520897,
+        0.34660035314814247,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "Today & Policy"
+    },
+    "2": {
+      "words": [
+        "scientist",
+        "new",
+        "using",
+        "today",
+        "technology",
+        "strategy",
+        "recovery",
+        "policy",
+        "leader",
+        "intelligence",
+        "economic",
+        "artificial",
+        "advanced"
+      ],
+      "weights": [
+        1.3792206526629152,
+        0.36549870036154347,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "Technology"
+    },
+    "3": {
+      "words": [
+        "strategy",
+        "leader",
+        "recovery",
+        "economic",
+        "using",
+        "today",
+        "technology",
+        "scientist",
+        "policy",
+        "new",
+        "intelligence",
+        "artificial",
+        "advanced"
+      ],
+      "weights": [
+        1.0588864377658573,
+        1.0588864377658573,
+        0.43155937259608435,
+        0.3185555767284783,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "Strategy & Leader"
+    },
+    "4": {
+      "words": [
+        "intelligence",
+        "artificial",
+        "technology",
+        "using",
+        "today",
+        "strategy",
+        "scientist",
+        "recovery",
+        "policy",
+        "new",
+        "leader",
+        "economic",
+        "advanced"
+      ],
+      "weights": [
+        0.6093221944960665,
+        0.6093221944960665,
+        0.33703170175002234,
+        0.27196712115681293,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "name": "Technology"
+    }
+  },
+  "model_params": {
+    "random_state": 42
+  }
+}

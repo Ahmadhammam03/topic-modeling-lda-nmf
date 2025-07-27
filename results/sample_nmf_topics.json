@@ -1,0 +1,42 @@
+{
+  "algorithm": "nmf",
+  "n_topics": 3,
+  "topics": {
+    "0": {
+      "words": [
+        "new",
+        "technology"
+      ],
+      "weights": [
+        0.11895270661928353,
+        1.646630482054171e-06
+      ],
+      "name": "Technology"
+    },
+    "1": {
+      "words": [
+        "technology",
+        "new"
+      ],
+      "weights": [
+        0.5819570844303633,
+        0.0
+      ],
+      "name": "Technology"
+    },
+    "2": {
+      "words": [
+        "new",
+        "technology"
+      ],
+      "weights": [
+        0.06348878520704175,
+        0.06348433366096361
+      ],
+      "name": "Technology"
+    }
+  },
+  "model_params": {
+    "random_state": 42
+  }
+}
