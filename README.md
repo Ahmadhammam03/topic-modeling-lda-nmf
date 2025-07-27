@@ -4,6 +4,7 @@
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange.svg)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Latest-green.svg)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/ahmad-hammam-1561212b2)
 
 A comprehensive topic modeling project that implements and compares **Latent Dirichlet Allocation (LDA)** and **Non-Negative Matrix Factorization (NMF)** algorithms to discover hidden topics in text documents.
 
